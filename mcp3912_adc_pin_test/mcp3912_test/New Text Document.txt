@@ -1,0 +1,11 @@
+CH0    CLK
+
+CH1   MISO
+
+CH2   MOSI
+
+
+CH3   CS
+
+
+CH4   DRDY
